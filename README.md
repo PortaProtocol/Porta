@@ -75,7 +75,7 @@ You can get flash loan anytime, from any place on Porta Protocol P2P lending pla
 <br>
 <p align="center">
   <a href="https://www.portaprotocol.com">
-    <img src="portanomics.png" alt="Logo" width="722" >
+    <img src="portanomics.png" alt="Logo" width="500" >
   </a>
  <h4 align="center">Portanomics</h4>
 <p align="center">
