@@ -27,7 +27,9 @@
 	<a href="https://medium.com/@portaprotocol">Reddit</a>
   </p>
 </p>
-
-
+<p align="center">
+  <a href="https://www.portaprotocol.com">
+    <img src="screenshot.png" alt="Logo" width="722" >
+  </a>
 
 
