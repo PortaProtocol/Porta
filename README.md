@@ -46,6 +46,11 @@ Porta token will be liquidity fuel for Porta protocol platform.
 You can get flash loan anytime, from any place on Porta Protocol P2P lending platform, and use the borrowed money to make payment by using Porta mobile application.
 </p>
 <br>
+
+<p align="center">
+  <a href="https://www.portaprotocol.com">
+    <img src="mobile.png" alt="Logo" width="722" >
+  </a>
  <h4 align="center">Porta Mobile App</h4>
 <p align="center">
 - Get Flash Loan
@@ -68,6 +73,10 @@ You can get flash loan anytime, from any place on Porta Protocol P2P lending pla
 </p>
 
 <br>
+<p align="center">
+  <a href="https://www.portaprotocol.com">
+    <img src="portanomics.png" alt="Logo" width="722" >
+  </a>
  <h4 align="center">Portanomics</h4>
 <p align="center">
 Max. Supply: 250,000 Porta<br>
