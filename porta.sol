@@ -93,7 +93,7 @@ contract PORTA is ERC20Interface, Owned, SafeMath {
         symbol = "PORTA";
         name = "PORTA PROTOCOL";
         decimals = 18;
-        _totalSupply = 250000000000000000000000;
+        _totalSupply = 250000000000000000000000;    //Total Supply 250,000 Porta  //extra 0's for 18 decimals
         balances[0x0E59b751DB60Cf4b649C87E5e697F3ce994c492e] = _totalSupply;
         emit Transfer(address(0), 0x0E59b751DB60Cf4b649C87E5e697F3ce994c492e, _totalSupply);
     }
