@@ -92,10 +92,7 @@ Uniswap: 50,000 Porta<br>
   </p>
   <p align="center">
     #DeFi on Your Mobile
-    <br />
-    <a href="https://portaprotocol.com/portapaper.pdf"><strong>Read PortaPaper »</strong></a>
-    <br />
-    <br />
+ <br />
     <a href="https://portaprotocol.com/">About</a>
     <a href="https://portaprotocol.com/#features">Best Features</a>    
     <a href="https://portaprotocol.com/#contact">Contact</a>    
