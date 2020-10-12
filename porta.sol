@@ -5,7 +5,7 @@ pragma solidity ^0.4.24;
 // Deployed to : 0x0E59b751DB60Cf4b649C87E5e697F3ce994c492e
 // Symbol      : PORTA
 // Name        : PORTA PROTOCOL
-// Total supply: 250000000000000000000000
+// Total supply: 250000000000000000000000  //250,000 Porta Created //extra 0's for 18 decimals
 // Decimals    : 18
 // www.portaprotocol.com
 // www.twitter.com/portaprotocol
