@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://www.portaprotocol.com">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Porta Protocol</h3>
