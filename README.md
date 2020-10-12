@@ -79,5 +79,5 @@ Uniswap: 50,000 Porta<br>
 %15 of presale funds will be used for BuyBack-Burn.</p>
 <br>
  <p align="center">
-<a href="https://portaprotocol.com/">visit www.portaprotocol.com for more</a>
+<a href="https://portaprotocol.com/">visit<br> www.portaprotocol.com<br> for more</a>
   </p>
